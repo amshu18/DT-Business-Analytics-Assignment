@@ -14,11 +14,11 @@ partB.md – Sourcing strategy and 1000-company proposal
 research_notes.md – Research notes and references
 City Chosen
 
-Karnataka Manufacturing Hub (Bengaluru–Mysuru Corridor)
+Hyderabad
 
 Segments Chosen
-Industrial Sensors & Instrumentation
+Specialty Biotech
 Medical Devices
-Objective
+Specialty Chemicals
 
 The objective of this assignment is to identify companies that closely match DeepThought's Federer Ideal Customer Profile (ICP) by evaluating operational maturity, growth signals, leadership quality, differentiation, and systems thinking using publicly available evidence.
