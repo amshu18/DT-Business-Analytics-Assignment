@@ -14,7 +14,7 @@ partB.md – Sourcing strategy and 1000-company proposal
 research_notes.md – Research notes and references
 City Chosen
 
-Bengaluru
+Karnataka Manufacturing Hub (Bengaluru–Mysuru Corridor)
 
 Segments Chosen
 Industrial Sensors & Instrumentation
